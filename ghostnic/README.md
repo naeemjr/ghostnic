@@ -68,7 +68,7 @@ The framework highlights:
 
 ```bash
 # Clone the repository
-git clone https://github.com/academic-redteam/ghostnic.git
+git clone https://github.com/naeemjr/ghostnic.git
 cd ghostnic
 
 # Build BPF objects and Go binaries
